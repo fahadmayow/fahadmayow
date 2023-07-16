@@ -8,9 +8,9 @@ Simultaneously, I hold a full-time position as a Software Engineer at "**Banadir
 I am a dedicated and driven individual with a passion for creating impactful solutions. I strive to stay up-to-date with the latest industry trends and continuously enhance my skills to deliver high-quality code and exceptional user experiences. My problem-solving abilities, attention to detail, and collaborative mindset make me a valuable asset to any development team.
 
 ### ✔ Proficiencies 
-- **PHP**: Extensive experience in PHP development, including frameworks such as Laravel and CodeIgniter.
+- **PHP**: Extensive experience in PHP development, including most popular PHP frameworks.
 - **MySQL**: Deep understanding of MySQL database management and optimization.
-- **JavaScript**: Proficient in JavaScript, with expertise in frameworks like React.js, Next.js, Vue.js, and Nuxt.js.
+- **JavaScript**: Proficient in JavaScript, with expertise in frameworks like React.js.
 - **CSS**: Proficient in CSS for styling and designing visually appealing web interfaces.
 - **TailwindCSS**: Experience in utilizing Tailwind CSS for rapid UI development.
 - **Laravel**: Skilled in utilizing the Laravel framework for efficient and scalable web development.
