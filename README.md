@@ -29,7 +29,7 @@ I am a dedicated and driven individual with a passion for creating impactful sol
 Currently, I am actively working on the development of a structured PHP framework called "**Worvel**". This framework aims to revolutionize the process of building PHP applications, including WordPress themes and plugins. With **Worvel**, developers can leverage a robust and efficient toolset that streamlines application development and enhances productivity.
 
 ### ⭕ Profiles
-[Linkedin](https://linkedin.com/u/fahadmayow) |
+[Linkedin](https://linkedin.com/in/fahadmayow) |
 [Twitter](https://twitter.com/fahadmayow) |
 [Instagram](https://instagram.com/fahadmayow)
 
